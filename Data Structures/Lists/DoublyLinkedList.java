@@ -1,6 +1,7 @@
 /**
  * This class implements a DoublyLinkedList. This is done using the classes
  * LinkedList and Link.
+ Concepts of pointers is not used in Java so we implement here directly.
  * 
  * A linked list is simplar to an array, it holds values. However,
  * links in a linked list do not have indees. With a linked list
